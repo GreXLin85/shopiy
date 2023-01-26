@@ -8,7 +8,7 @@ import { Navigation } from "swiper";
 import styled from "styled-components";
 
 const StyledSwiper = styled(Swiper)`
-text-align: center;
+    text-align: center;
     font-size: 18px;
     background: #fff;
     height: 40vh;
