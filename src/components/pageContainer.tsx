@@ -2,11 +2,11 @@ import styled from 'styled-components';
 
 
 const PageContainer = styled.div`
-    background-color: #9C9C9C;
-    height: 100vh;
+    width: 80vw;
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
+    margin: 0px auto;
 `;
 
 export default function pageContainer({children}: {
