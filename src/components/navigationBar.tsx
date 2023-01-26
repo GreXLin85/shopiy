@@ -42,7 +42,6 @@ const SignInButton = styled.button`
     color: #FF8A00;
     font-size: 1rem;
     padding: 10px 20px;
-    border-radius: 5px;
     cursor: pointer;
 `;
 
@@ -52,7 +51,6 @@ const SignUpButton = styled.button`
     color: #FFF;
     font-size: 1rem;
     padding: 10px 20px;
-    border-radius: 5px;
     cursor: pointer;
 `;
 
