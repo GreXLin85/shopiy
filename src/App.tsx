@@ -4,6 +4,7 @@ import NavigationBar from './components/navigationBar';
 import PageContainer from './components/pageContainer';
 import Products from './components/products';
 import ProductSlider from './components/productSlider';
+import Search from './components/search';
 
 const ProductsTitle = styled.h1`
   font-size: 2rem;
@@ -20,6 +21,7 @@ function App() {
         <ProductSlider></ProductSlider>
         <Products></Products>
         <ProductsTitle>All Products</ProductsTitle>
+        <Search></Search>
       </PageContainer>
 
     </div>
